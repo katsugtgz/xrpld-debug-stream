@@ -83,7 +83,7 @@ batch, so the outcome can be fetched after submission without having subscribed 
 ```
 
 ```
-  curl https://debug.devnet.xrpl.org/batch/D5A1649061F21BCD145E8EFEBC3FD085876EE20695F46FACA86596CAB25EE271
+  curl https://devnet.xrplf.org/batch/D5A1649061F21BCD145E8EFEBC3FD085876EE20695F46FACA86596CAB25EE271
   {
     "parent_batch_id": "D5A16490…",
     "first_seen": 1788369126146,
