@@ -34,7 +34,7 @@
   },
   "overrides": {
     "degenerator": {
-      "vm2": "3.12.1"
+      "vm2": "3.12.2"
     }
   }
 }
